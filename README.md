@@ -63,7 +63,7 @@ Please cite the following papers as the references if you use our codes or the p
 @inproceedings{shang2023mhim,
   author = {Chenzhan Shang and Yupeng Hou and Wayne Xin Zhao and Yaliang Li and Jing Zhang},
   title = {Multi-grained Hypergraph Interest Modeling for Conversational Recommendation},
-  booktitle = {{PLACEHOLDER}},
+  booktitle = {{arXiv preprint}},
   year = {2023}
 }
 ```
