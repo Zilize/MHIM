@@ -1,6 +1,6 @@
 # MHIM
 
-This is the official PyTorch implementation for the paper: [arXiv](https://arxiv.org/abs/2305.04798)
+This is the official PyTorch implementation for the paper: [[arXiv]](https://arxiv.org/abs/2305.04798)
 
 > Chenzhan Shang, Yupeng Hou, Wayne Xin Zhao, Yaliang Li, Jing Zhang. Multi-grained Hypergraph Interest Modeling for Conversational Recommendation.
 
